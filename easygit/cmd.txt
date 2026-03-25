@@ -1,0 +1,17 @@
+git-add-spfd:A,，添加仓库A（默认项目公开）
+git-del-spfd:A，删除仓库A
+git-rnm-spfd:A,B，把仓库A重命名成仓库B
+git-up-spfd:B,A，把B文件或文件夹（提供文件/文件夹路径）上传到A仓库里
+git-pxy-web:C，配置git代理 网址C
+git-dn-spfd:A,B ，利用github项目https形式的A链接，从github上下载到本地“下载的文件及文件夹”的子文件夹B中，如果检测到没子文件夹B或“下载的文件及文件夹”，就自动创建再下载。
+git-spfd-atb:A,pub/prv，把仓库A的属性，从公开改为私密
+git-spfd-atb:A,prv/pub，把仓库A的属性，从私密改为公开
+git-rol-spfd:A  ，回滚仓库A里的项目到上一版本
+git-rtn-spfd:A ，还原仓库A里的项目到最新版本
+get-krn  ，提供卡林（Karing）下载地址：https://karing.app/download/
+get-krn-nd，提供卡林海外服务器节点配置文件，
+输入直接提供网址（复制到“添加配置-添加配置链接”中）：https://103.200.216.100/proxy?url=https%3A%2F%2Fxn--wtq35pfyd55o.co%2Fanswer%2Fland%2Fc401ae83c6ab9c2c8d0bd08371c8053b
+hub-log-rgs，跳转到github登录注册页面
+cfg-hub-nmtok:A,B,绑定github的用户名A和tokenB,每次均需重新绑定。如果再次输入指令，视为换绑。
+egit-author,查看作者信息：这个脚本专为新手连接github而生，输入指令即可快速上手，欢迎各位大佬指正。作者电话：18563982192。
+egit-cmd-menu，所有指令菜单
